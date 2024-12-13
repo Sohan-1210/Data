@@ -1,4 +1,4 @@
-Region Name,Area Code,Housing Cost (Rental),Housing Affordability for Low Income (%),Housing Affordability for Avg Income (%),Housing Affordability for High Income (%),Rent
+Region Name,LAD13CD,Housing Cost (Rental),Housing Affordability for Low Income (%),Housing Affordability for Avg Income (%),Housing Affordability for High Income (%),Rent
 Hartlepool,E06000001,100,5.43,6.12,1,494
 Middlesbrough,E06000002,200,6.43,7.12,2,492
 Redcar and Cleveland,E06000003,300,7.43,8.12,3,505
