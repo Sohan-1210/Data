@@ -1,17 +1,17 @@
-Region,Average Household Size,Overcrowding Rate(%),Ethnicity,Population of Ethnicity in Region (%),,
-North East,2.17,0.8,White british,90.6,,
-North East,2.17,5.7,All Other Ethnic Groups,9.4,,
-North West,2.27,1.8,White british,81.2,,
-North West,2.27,8.8,All Other Ethnic Groups,18.8,,
-Yorkshire and The Humber,2.31,1.3,White british,80.9,,
-Yorkshire and The Humber,2.31,5.9,All Other Ethnic Groups,19.1,,
-East Midlands,2.41,1.3,White british,79.6,,
-East Midlands,2.41,8.5,All Other Ethnic Groups,20.4,,
-East,2.37,1.6,White british,78.5,,
-East,2.37,4.9,All Other Ethnic Groups,21.5,,
-London,2.57,3.4,White british,36.8,,
-London,2.57,13.8,All Other Ethnic Groups,63.2,,
-South East,2.43,2,White british,78.8,,
-South East,2.43,6.3,All Other Ethnic Groups,21.2,,
-South West,2.36,0.8,White british,87.8,,
-South West,2.36,6.3,All Other Ethnic Groups,12.2,,
+Region,Average Household Size,Overcrowding Rate,Ethnicity,Population of Ethnicity in Region
+North East,2.17,0.8,White british,90.6
+North East,2.17,5.7,All Other Ethnic Groups,9.4
+North West,2.27,1.8,White british,81.2
+North West,2.27,8.8,All Other Ethnic Groups,18.8
+Yorkshire and The Humber,2.31,1.3,White british,80.9
+Yorkshire and The Humber,2.31,5.9,All Other Ethnic Groups,19.1
+East Midlands,2.41,1.3,White british,79.6
+East Midlands,2.41,8.5,All Other Ethnic Groups,20.4
+East,2.37,1.6,White british,78.5
+East,2.37,4.9,All Other Ethnic Groups,21.5
+London,2.57,3.4,White british,36.8
+London,2.57,13.8,All Other Ethnic Groups,63.2
+South East,2.43,2,White british,78.8
+South East,2.43,6.3,All Other Ethnic Groups,21.2
+South West,2.36,0.8,White british,87.8
+South West,2.36,6.3,All Other Ethnic Groups,12.2
